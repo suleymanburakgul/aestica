@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "381099891959",
+    "project_id": "aestica-d173c",
+    "storage_bucket": "aestica-d173c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381099891959:android:ff144c7690c1e32e49c7f2",
+        "android_client_info": {
+          "package_name": "dev.kebab.aestica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxRTS1OmX-RD7i47KpkOczXBdyTJgPcVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
